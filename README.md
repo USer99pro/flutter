@@ -21,7 +21,7 @@ flutter doctor --android-licenses // install licenses
 1. Set Path Sdk Tools
 2. Set Path Sdk Tools \ file bin
 3. Set Path Sdk Platform-tools
-![IMG20240528090134](https://github.com/USer99pro/flutter/assets/170594967/23ebea10-f313-4a5a-b971-400faf697fdc)
+![IMG20240528090134 width="30"](https://github.com/USer99pro/flutter/assets/170594967/23ebea10-f313-4a5a-b971-400faf697fdc)
 
 
 
