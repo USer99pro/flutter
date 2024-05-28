@@ -4,7 +4,7 @@
 
 # Set path Flutter
 ### Open Edit the system Environement Variables OR env
-### 1. User variables for User > Path > New > Address file Flutter
+### -User variables for User > Path > New > Address file Flutter
 
 # Install Flutter 
 ### open command prompt > flutter 
