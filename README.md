@@ -1,4 +1,4 @@
-![IMG20240528090134](https://github.com/USer99pro/flutter/assets/170594967/6c43d9bb-3e4d-46d8-8e9c-4134e0860ec6)# Setup Flutter
+# Setup Flutter
 ### 1. downloads flutter flie zip  - [Downloads Flutter](https://docs.flutter.dev/get-started/install/windows/desktop?tab=download)
 ### 2. extect file Flutter
 
