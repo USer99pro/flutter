@@ -1,6 +1,6 @@
 # Setup Flutter
 ### 1. downloads flutter flie zip
-/https://docs.flutter.dev/get-started/install/windows/desktop?tab=download
+https://docs.flutter.dev/get-started/install/windows/desktop?tab=download
 ### 2. extect file Flutter
 
 # Set path Flutter
