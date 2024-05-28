@@ -1,16 +1,18 @@
-# Setup Flutter
+# 1.Setup Flutter
 ### 1. downloads flutter flie zip  - [Downloads Flutter](https://docs.flutter.dev/get-started/install/windows/desktop?tab=download)
 ### 2. extect file Flutter
 
-# Set path Flutter
+# 2.Set path Flutter
 ### Open Edit the system Environement Variables OR env
 ### -User variables for User > Path > New > Address file Flutter
 
-# Install Flutter 
+# 3.Install Flutter 
 ### open command prompt > flutter
+```
 flutter --version // version flutter
 flutter doctor //list install flutter 
-
+flutter doctor --android-licenses // install licenses
+```
 
 # Set Android Studio SDK TOOL
 ### More Action > SDK Manager > SDK Tools
