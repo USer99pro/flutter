@@ -7,7 +7,10 @@
 ### -User variables for User > Path > New > Address file Flutter
 
 # Install Flutter 
-### open command prompt > flutter 
+### open command prompt > flutter
+flutter --version // version flutter
+flutter doctor //list install flutter 
+
 
 # Set Android Studio SDK TOOL
 ### More Action > SDK Manager > SDK Tools
