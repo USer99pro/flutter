@@ -6,19 +6,6 @@
 ### Open Edit the system Environement Variables OR env
 ### 1. User variables for User > Path > New > Address file Flutter
 
-
-
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Set Android Studio SDK TOOL
+### More Action > SDK Manager > SDK Tools
+![image](https://github.com/USer99pro/flutter/assets/170594967/77834fb2-e0ba-43e6-bc28-df800d557da5)
