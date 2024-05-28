@@ -1,6 +1,15 @@
-# myproject
+# Setup Flutter
+### 1. downloads flutter flie zip
+/https://docs.flutter.dev/get-started/install/windows/desktop?tab=download
+### 2. extect file Flutter
 
-A new Flutter project.
+# Set path Flutter
+### Open Edit the system Environement Variables OR env
+ User variables for User > Path > New > Address file Flutter
+
+
+
+
 
 ## Getting Started
 
