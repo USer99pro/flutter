@@ -17,7 +17,7 @@ flutter doctor //list install flutter
 ![image](https://github.com/USer99pro/flutter/assets/170594967/77834fb2-e0ba-43e6-bc28-df800d557da5)
 ### Set Path SDK Tools
 ![IMG20240528090134](https://github.com/USer99pro/flutter/assets/170594967/23ebea10-f313-4a5a-b971-400faf697fdc)
-![IMG20240528094933](https://github.com/USer99pro/flutter/assets/170594967/d8d6eb11-88ed-4439-a38c-8d0fb9809cc8)
 
+![Android_SDK_ROOT](https://github.com/USer99pro/flutter/assets/170594967/6203e190-f196-4b69-9530-7a87ab9ad4a9)
 
 
